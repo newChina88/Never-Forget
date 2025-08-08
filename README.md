@@ -216,7 +216,7 @@ graph LR
 ## 👥 团队与社区
 
 ### 🏆 核心维护者
-- **@username** - 项目发起人
+- **@newChina88** - 项目发起人
 - **@contributor1** - 数据验证专家
 - **@contributor2** - 技术开发负责人
 
@@ -229,7 +229,7 @@ graph LR
 ### 📞 联系方式
 - **GitHub Issues** - 报告问题或提出建议
 - **GitHub Discussions** - 参与项目讨论
-- **Email** - never.forget.project@gmail.com
+- **Email** - xixiaoxiao69@gmail.com
 
 ## 📄 许可证与声明
 
